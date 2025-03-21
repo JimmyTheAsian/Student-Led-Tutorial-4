@@ -1,0 +1,8 @@
+{
+    "salmon_version": "1.10.3",
+    "index": "trinity_index",
+    "libType": "A",
+    "unmatedReads": "mock_combined.fastq",
+    "output": "salmon_mock_out",
+    "auxDir": "aux_info"
+}
